@@ -5,6 +5,9 @@ It implemented using Vite and Tailwind.
 
 
 1- Get the project
+
 2- run "yarn" command to install packages
+
 3- run "yarn dev" to run the project
+
 - [@MyLinkedInProfile](https://www.linkedin.com/in/zakiyeh-nobakht/)
