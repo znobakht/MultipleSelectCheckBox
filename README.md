@@ -1,7 +1,5 @@
-# React + Vite
+# Multiple Select
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+This template provides a multiple select with checkBoxes for Iran provinces.
 
 - [@MyLinkedInProfile](https://www.linkedin.com/in/zakiyeh-nobakht/)
